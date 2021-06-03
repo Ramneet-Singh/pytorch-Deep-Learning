@@ -1,5 +1,7 @@
 # Deep Learning (with PyTorch) [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Atcold/pytorch-Deep-Learning/master)
 
+Note: This repository has been forked from the original course repository. I am studying the course and will be updating the files with my solutions/projects etc. I feel obliged to thank Alfredo Canziani and the great folks at NYU for providing excellent education for free.
+
 This notebook repository now has a [companion website](https://atcold.github.io/pytorch-Deep-Learning/), where all the course material can be found in video and textual format.
 
 <!-- English - Mandarin - Korean - Spanish - Italian - Turkish - Japanese - Arabic - French - Farsi - Russian - Vietnamese - Serbian - Portuguese -->
